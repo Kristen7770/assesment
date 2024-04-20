@@ -1,1 +1,2 @@
 Funcionalidad de suma
+Funcionalidad de resta
